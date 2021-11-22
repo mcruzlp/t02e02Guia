@@ -1,0 +1,7 @@
+{
+  "name": "t02e02Guia",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
